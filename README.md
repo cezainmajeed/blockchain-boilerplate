@@ -13,4 +13,4 @@ There are two types of methods that can be called on a Contract:
 - A Non-Constant method requires a fee (in Ether) to be paid, but may perform any state-changing operation desired, log events, send ether and call Non-Constant methods on other Contracts. These methods cannot return their result to the caller. These methods must be triggered by a transaction, sent by an Externally Owned Account (EOA) either directly or indirectly (i.e. called from another contract), and are required to be mined before the effects are present. Therefore, the duration required for these operations can vary widely, and depend on the transaction gas price, network congestion and miner priority heuristics.
 
 
-#### Dynamic nested Arrays is not allowed in Web3.js and strings in solidity is dynamic char array.
+### Dynamic nested Arrays is not allowed in Web3.js and strings in solidity is dynamic char array.
