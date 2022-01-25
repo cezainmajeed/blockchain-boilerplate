@@ -16,4 +16,4 @@ There are two types of methods that can be called on a Contract:
 
 
 
-### Dynamic nested Arrays is not allowed in Web3.js and strings in solidity is dynamic char array.
+#### Dynamic nested Arrays is not allowed in Web3.js and strings in solidity is dynamic char array.
